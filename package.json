@@ -46,9 +46,9 @@
   "dependencies": {
     "@raycast/api": "^1.48.0",
     "@vitalets/google-translate-api": "^9.1.0",
-    "axios": "^1.3.4",
+    "axios": "^1.8.2",
     "cheerio": "^1.0.0-rc.12",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "eventsource": "^2.0.2",
     "node-fetch": "^3.3.0",
     "eventsource-parser": "^0.1.0",
@@ -58,7 +58,7 @@
     "hpagent": "^1.2.0",
     "mac-system-proxy": "^1.0.4",
     "node-html-parser": "^6.1.5",
-    "play-sound": "^1.1.5",
+    "play-sound": "^1.1.6",
     "qs": "^6.11.0",
     "run-applescript": "^6.1.0",
     "tencentcloud-sdk-nodejs-tmt": "^4.0.559"
